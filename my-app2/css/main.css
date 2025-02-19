@@ -2,6 +2,10 @@ p {
     color: red;
 }
 
-/*#name {*/
-/*    color: blue;*/
-/*}*/
+#name {
+    color: blue;
+}
+
+.last_word{
+    color: green;
+}
